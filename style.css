@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #ffebee;
+    background-image: url('background.jpg'); background-size: cover;
     font-family: 'Arial', sans-serif;
     margin: 0;
     overflow: hidden;
