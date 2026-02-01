@@ -9,7 +9,7 @@ function moveButton() {
 
 function celebrate() {
     // Change the text
-    document.getElementById('question').innerHTML = "Yay! See you on the 14th! 🎉💖";
+    document.getElementById('question').innerHTML = "Lovely Lady, the 14th is for You! 🎉💖";
     
     // Hide the buttons
     document.querySelector('.buttons').style.display = 'none';
